@@ -1,0 +1,4 @@
+C:\Users\Johan\Source\Repos\Backgammon\Backgammon\obj\Release\MainWindow.g.cs
+C:\Users\Johan\Source\Repos\Backgammon\Backgammon\obj\Release\App.g.cs
+C:\Users\Johan\Source\Repos\Backgammon\Backgammon\obj\Release\Backgammon_MarkupCompile.cache
+C:\Users\Johan\Source\Repos\Backgammon\Backgammon\obj\Release\Backgammon_MarkupCompile.lref

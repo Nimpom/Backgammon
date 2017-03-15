@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SavedGame>
+  <Players>
+    <Player id="1" active="false">
+      <Name>Player1</Name>
+      <color>White</color>
+    </Player>
+    <Player id="2" active="true">
+      <Name>Player2</Name>
+      <color>Black</color>
+    </Player>
+  </Players>
+  <diceCup>
+    <dice>1</dice>
+  </diceCup>
+  <gameBoard>
+    <boardField>
+      <field position="0">
+        <checkers />
+      </field>
+      <field position="1">
+        <checkers>
+          <checker id="16">
+            <Player>2</Player>
+          </checker>
+          <checker id="19">
+            <Player>2</Player>
+          </checker>
+          <checker id="22">
+            <Player>2</Player>
+          </checker>
+        </checkers>
+      </field>
+      <field position="2">
+        <checkers>
+          <checker id="20">
+            <Player>2</Player>
+          </checker>
+          <checker id="17">
+            <Player>2</Player>
+          </checker>
+          <checker id="18">
+            <Player>2</Player>
+          </checker>
+        </checkers>
+      </field>
+      <field position="3">
+        <checkers>
+          <checker id="29">
+            <Player>2</Player>
+          </checker>
+        </checkers>
+      </field>
+      <field position="4">
+        <checkers />
+      </field>
+      <field position="5">
+        <checkers>
+          <checker id="15">
+            <Player>2</Player>
+          </checker>
+        </checkers>
+      </field>
+      <field position="6">
+        <checkers />
+      </field>
+      <field position="7">
+        <checkers />
+      </field>
+      <field position="8">
+        <checkers />
+      </field>
+      <field position="9">
+        <checkers />
+      </field>
+      <field position="10">
+        <checkers />
+      </field>
+      <field position="11">
+        <checkers />
+      </field>
+      <field position="12">
+        <checkers>
+          <checker id="28">
+            <Player>2</Player>
+          </checker>
+          <checker id="27">
+            <Player>2</Player>
+          </checker>
+          <checker id="26">
+            <Player>2</Player>
+          </checker>
+          <checker id="25">
+            <Player>2</Player>
+          </checker>
+          <checker id="24">
+            <Player>2</Player>
+          </checker>
+          <checker id="23">
+            <Player>2</Player>
+          </checker>
+        </checkers>
+      </field>
+      <field position="13">
+        <checkers>
+          <checker id="21">
+            <Player>2</Player>
+          </checker>
+        </checkers>
+      </field>
+      <field position="14">
+        <checkers />
+      </field>
+      <field position="15">
+        <checkers />
+      </field>
+      <field position="16">
+        <checkers />
+      </field>
+      <field position="17">
+        <checkers />
+      </field>
+      <field position="18">
+        <checkers />
+      </field>
+      <field position="19">
+        <checkers />
+      </field>
+      <field position="20">
+        <checkers />
+      </field>
+      <field position="21">
+        <checkers />
+      </field>
+      <field position="22">
+        <checkers />
+      </field>
+      <field position="23">
+        <checkers />
+      </field>
+    </boardField>
+    <eliminationField position="25">
+      <checkers />
+    </eliminationField>
+    <goalFields>
+      <goalField owner="1" position="27">
+        <checkers>
+          <checker id="11">
+            <Player>1</Player>
+          </checker>
+          <checker id="10">
+            <Player>1</Player>
+          </checker>
+          <checker id="2">
+            <Player>1</Player>
+          </checker>
+          <checker id="0">
+            <Player>1</Player>
+          </checker>
+          <checker id="14">
+            <Player>1</Player>
+          </checker>
+          <checker id="13">
+            <Player>1</Player>
+          </checker>
+          <checker id="6">
+            <Player>1</Player>
+          </checker>
+          <checker id="5">
+            <Player>1</Player>
+          </checker>
+          <checker id="4">
+            <Player>1</Player>
+          </checker>
+          <checker id="9">
+            <Player>1</Player>
+          </checker>
+          <checker id="3">
+            <Player>1</Player>
+          </checker>
+          <checker id="8">
+            <Player>1</Player>
+          </checker>
+          <checker id="1">
+            <Player>1</Player>
+          </checker>
+          <checker id="7">
+            <Player>1</Player>
+          </checker>
+          <checker id="12">
+            <Player>1</Player>
+          </checker>
+        </checkers>
+      </goalField>
+      <goalField owner="2" position="26">
+        <checkers />
+      </goalField>
+    </goalFields>
+  </gameBoard>
+</SavedGame>
