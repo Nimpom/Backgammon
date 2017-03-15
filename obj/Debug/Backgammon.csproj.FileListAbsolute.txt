@@ -12,3 +12,6 @@ C:\Users\Johan\Source\Repos\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.Ge
 C:\Users\Johan\Source\Repos\Backgammon\Backgammon\obj\Debug\Backgammon.exe
 C:\Users\Johan\Source\Repos\Backgammon\Backgammon\obj\Debug\Backgammon.pdb
 C:\Users\Johan\Source\Repos\Backgammon\Backgammon\obj\Debug\Backgammon.csprojResolveAssemblyReference.cache
+C:\Users\Johan\Source\Backgammon\Backgammon\bin\Debug\Backgammon.exe.config
+C:\Users\Johan\Source\Backgammon\Backgammon\obj\Debug\Backgammon.exe
+C:\Users\Johan\Source\Backgammon\Backgammon\obj\Debug\Backgammon.pdb
